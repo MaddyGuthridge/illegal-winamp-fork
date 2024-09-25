@@ -1,5 +1,9 @@
 # Winamp
 
+Winamp is not open source. In fact, their license makes the act of forking the project illegal, despite their claim that they want community contributions.
+
+And yet, here I am with my very own illegal fork. Come at me, lawyers.
+
 ## About
 
 Winamp is a multimedia player launched in 1997, iconic for its flexibility and wide compatibility with audio formats. Originally developed by Nullsoft, it gained massive popularity with still millions of users. Its development slowed down, but now, its source code was opened to the community, allowing developers to improve and modernize the player to meet current user needs.
